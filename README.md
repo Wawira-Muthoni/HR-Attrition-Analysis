@@ -18,10 +18,16 @@ of employee turnover.
 - Employees under 30 leave the most at 23.76%
 
 ## Dashboard Pages
-- Page 1: Executive Overview
-- Page 2: Demographics & Satisfaction
-- Page 3: Risk Factors & Deep Dive
-- Page 4: Insights & Recommendations
+- ## Dashboard Screenshots
+
+### Page 1 - Executive Overview
+![Page 1](page1_executive_overview.png)
+
+### Page 2 - Demographics
+![Page 2](page2_demographics.png)
+
+### Page 3 - Risk Factors
+![Page 3](page3_risk_factors.png)
 
 ## Dataset
 IBM HR Analytics Employee Attrition Dataset
