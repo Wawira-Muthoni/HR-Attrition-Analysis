@@ -29,6 +29,9 @@ of employee turnover.
 ### Page 3 - Risk Factors
 ![Page 3](page3_risk_factors.png)
 
+### Page 4 - Key Insights & Recommendations
+![Page 4](page4_insights_&_recommendations.png)
+
 ## Dataset
 IBM HR Analytics Employee Attrition Dataset
 Source: Kaggle
